@@ -1,1 +1,13 @@
-img {width: 100px;}
+body {
+    
+font-family:Avenir;
+	background-color: hotpink;
+}
+h1 {color:white; text-decoration: underline;}
+
+h2 {font-family:Avenir Next;
+	color: white ;}	
+
+h3 {font-family:avenir next; color:white;} 
+
+h6{color:lightblue;}
