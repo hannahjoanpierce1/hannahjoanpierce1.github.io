@@ -1,0 +1,33 @@
+/* Your Website Styles*/
+body{
+  background-color: white;
+  text-align: center;
+
+}
+
+a{
+  font-family: font-family: 'Nunito', sans-serif;
+  color: #000; 
+  text-decoration: none;
+}
+
+  article{
+    margin-top: 50px;
+  }
+
+a:hover{
+  color:darkgrey;
+  transition: 1s;
+}
+
+footer{
+  margin-top: 320px;
+  font-family: font-family: 'Nunito', sans-serif;;
+  color: #fff;
+  font-size: 1em;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
