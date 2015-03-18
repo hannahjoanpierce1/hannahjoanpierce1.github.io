@@ -3,11 +3,32 @@ body {
 font-family:Avenir;
 	background-color: hotpink;
 }
-h1 {color:white; text-decoration: underline;}
 
-h2 {font-family:Avenir Next;
-	color: white ;}	
+h1
+{
+	margin:          0;
+	font-weight:     normal;
+	color:           #6A7919;
+	font-size:       2.5em;
+	font-family:Times;
+}
 
-h3 {font-family:avenir next; color:white;} 
+h2
+{
+	margin:          0;
+	display:         inline;
+	position:        relative;
+	top:             -1.5em;
+	left:            2em;
+	font-size:       1.8em;
+	font-weight:     normal;
+	color:           #94c258;
+}
 
-h6{color:lightblue;}
+h3
+{
+	margin:          0;
+	font-size:       1.5em;
+	font-weight:     normal;
+	color:           #94C258;
+}
